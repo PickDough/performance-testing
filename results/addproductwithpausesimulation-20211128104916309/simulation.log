@@ -1,0 +1,121 @@
+RUN	simulations.AddProductWithPauseSimulation	addproductwithpausesimulation	1638096556309	 	3.7.2
+USER	Add two products with pause scenario	START	1638096558140
+USER	Add two products with pause scenario	START	1638096558280
+USER	Add two products with pause scenario	START	1638096558451
+REQUEST		Add product request	1638096558177	1638096558553	OK	 
+USER	Add two products with pause scenario	START	1638096558622
+REQUEST		Add product request	1638096558286	1638096558635	OK	 
+USER	Add two products with pause scenario	START	1638096558793
+REQUEST		Add product request	1638096558452	1638096558828	OK	 
+REQUEST		Add product request	1638096558622	1638096558946	OK	 
+USER	Add two products with pause scenario	START	1638096558960
+USER	Add two products with pause scenario	START	1638096559124
+REQUEST		Add product request	1638096558796	1638096559168	OK	 
+REQUEST		Add product request	1638096558962	1638096559308	OK	 
+USER	Add two products with pause scenario	START	1638096559299
+REQUEST		Add product request	1638096559125	1638096559362	OK	 
+USER	Add two products with pause scenario	START	1638096559457
+USER	Add two products with pause scenario	START	1638096559632
+REQUEST		Add product request	1638096559308	1638096559702	OK	 
+USER	Add two products with pause scenario	START	1638096559798
+REQUEST		Add product request	1638096559458	1638096559817	OK	 
+USER	Add two products with pause scenario	START	1638096559961
+REQUEST		Add product request	1638096559633	1638096559990	OK	 
+USER	Add two products with pause scenario	START	1638096560127
+REQUEST		Add product request	1638096559799	1638096560190	OK	 
+USER	Add two products with pause scenario	START	1638096560275
+REQUEST		Add product request	1638096559962	1638096560329	OK	 
+USER	Add two products with pause scenario	START	1638096560444
+REQUEST		Add product request	1638096560128	1638096560514	OK	 
+REQUEST		Add product request	1638096560276	1638096560593	OK	 
+USER	Add two products with pause scenario	START	1638096560612
+REQUEST		Add product request	1638096560445	1638096560697	OK	 
+USER	Add two products with pause scenario	START	1638096560779
+REQUEST		Add product request	1638096560613	1638096560839	OK	 
+REQUEST		Add product request	1638096560791	1638096560939	OK	 
+USER	Add two products with pause scenario	END	1638096560945
+USER	Add two products with pause scenario	START	1638096560947
+REQUEST		Add product request	1638096560780	1638096561027	OK	 
+REQUEST		Add product request	1638096560885	1638096561040	OK	 
+USER	Add two products with pause scenario	END	1638096561041
+USER	Add two products with pause scenario	START	1638096561111
+REQUEST		Add product request	1638096560948	1638096561209	OK	 
+USER	Add two products with pause scenario	START	1638096561278
+REQUEST		Add product request	1638096561180	1638096561322	OK	 
+USER	Add two products with pause scenario	END	1638096561324
+REQUEST		Add product request	1638096561118	1638096561362	OK	 
+USER	Add two products with pause scenario	START	1638096561441
+USER	Add two products with pause scenario	START	1638096561608
+REQUEST		Add product request	1638096561279	1638096561620	OK	 
+REQUEST		Add product request	1638096561441	1638096561674	OK	 
+USER	Add two products with pause scenario	START	1638096561779
+REQUEST		Add product request	1638096561610	1638096561937	OK	 
+USER	Add two products with pause scenario	START	1638096561946
+REQUEST		Add product request	1638096561780	1638096562010	OK	 
+USER	Add two products with pause scenario	START	1638096562113
+REQUEST		Add product request	1638096561947	1638096562179	OK	 
+USER	Add two products with pause scenario	START	1638096562276
+REQUEST		Add product request	1638096562114	1638096562324	OK	 
+USER	Add two products with pause scenario	START	1638096562443
+REQUEST		Add product request	1638096562277	1638096562496	OK	 
+REQUEST		Add product request	1638096562434	1638096562579	OK	 
+USER	Add two products with pause scenario	END	1638096562583
+USER	Add two products with pause scenario	START	1638096562614
+REQUEST		Add product request	1638096562566	1638096562712	OK	 
+USER	Add two products with pause scenario	END	1638096562715
+REQUEST		Add product request	1638096562600	1638096562752	OK	 
+USER	Add two products with pause scenario	END	1638096562753
+REQUEST		Add product request	1638096562621	1638096562756	OK	 
+USER	Add two products with pause scenario	END	1638096562758
+USER	Add two products with pause scenario	START	1638096562779
+REQUEST		Add product request	1638096562443	1638096562821	OK	 
+REQUEST		Add product request	1638096562614	1638096562869	OK	 
+USER	Add two products with pause scenario	START	1638096562948
+REQUEST		Add product request	1638096562830	1638096562988	OK	 
+USER	Add two products with pause scenario	END	1638096562989
+REQUEST		Add product request	1638096562780	1638096563013	OK	 
+REQUEST		Add product request	1638096562922	1638096563090	OK	 
+USER	Add two products with pause scenario	END	1638096563092
+REQUEST		Add product request	1638096562959	1638096563102	OK	 
+USER	Add two products with pause scenario	END	1638096563104
+REQUEST		Add product request	1638096562966	1638096563132	OK	 
+USER	Add two products with pause scenario	END	1638096563134
+REQUEST		Add product request	1638096562948	1638096563268	OK	 
+REQUEST		Add product request	1638096563547	1638096563711	OK	 
+REQUEST		Add product request	1638096563566	1638096563711	OK	 
+USER	Add two products with pause scenario	END	1638096563717
+USER	Add two products with pause scenario	END	1638096563717
+REQUEST		Add product request	1638096563580	1638096563730	OK	 
+USER	Add two products with pause scenario	END	1638096563732
+REQUEST		Add product request	1638096563702	1638096563853	OK	 
+USER	Add two products with pause scenario	END	1638096563854
+REQUEST		Add product request	1638096563703	1638096563883	OK	 
+USER	Add two products with pause scenario	END	1638096563884
+REQUEST		Add product request	1638096563872	1638096564011	OK	 
+USER	Add two products with pause scenario	END	1638096564014
+REQUEST		Add product request	1638096563927	1638096564080	OK	 
+USER	Add two products with pause scenario	END	1638096564081
+REQUEST		Add product request	1638096564415	1638096564574	OK	 
+USER	Add two products with pause scenario	END	1638096564579
+REQUEST		Add product request	1638096564465	1638096564728	OK	 
+USER	Add two products with pause scenario	END	1638096564730
+REQUEST		Add product request	1638096565072	1638096565222	OK	 
+USER	Add two products with pause scenario	END	1638096565226
+REQUEST		Add product request	1638096565361	1638096565527	OK	 
+USER	Add two products with pause scenario	END	1638096565532
+REQUEST		Add product request	1638096565397	1638096565557	OK	 
+USER	Add two products with pause scenario	END	1638096565559
+REQUEST		Add product request	1638096565483	1638096565639	OK	 
+USER	Add two products with pause scenario	END	1638096565640
+REQUEST		Add product request	1638096565502	1638096565650	OK	 
+USER	Add two products with pause scenario	END	1638096565652
+REQUEST		Add product request	1638096565711	1638096565858	OK	 
+USER	Add two products with pause scenario	END	1638096565864
+REQUEST		Add product request	1638096565802	1638096565953	OK	 
+USER	Add two products with pause scenario	END	1638096565956
+REQUEST		Add product request	1638096565988	1638096566138	OK	 
+USER	Add two products with pause scenario	END	1638096566141
+REQUEST		Add product request	1638096566393	1638096566541	OK	 
+USER	Add two products with pause scenario	END	1638096566544
+REQUEST		Add product request	1638096567034	1638096567174	OK	 
+USER	Add two products with pause scenario	END	1638096567179

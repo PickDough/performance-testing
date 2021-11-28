@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.GetProductRampUpSimulation",
+  "simulationId": "getproductrampupsimulation",
+  "start": 1638095405341,
+  "description": "",
+  "scenarios": ["Get product scenario"],
+  "assertions": [
+
+  ]
+}

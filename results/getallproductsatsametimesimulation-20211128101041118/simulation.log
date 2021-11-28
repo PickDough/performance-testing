@@ -1,0 +1,31 @@
+RUN	simulations.GetAllProductsAtSameTimeSimulation	getallproductsatsametimesimulation	1638094241118	 	3.7.2
+USER	Get all products scenario	START	1638094243025
+USER	Get all products scenario	START	1638094243037
+USER	Get all products scenario	START	1638094243021
+USER	Get all products scenario	START	1638094243021
+USER	Get all products scenario	START	1638094243025
+USER	Get all products scenario	START	1638094243025
+USER	Get all products scenario	START	1638094243025
+USER	Get all products scenario	START	1638094243021
+USER	Get all products scenario	START	1638094243025
+USER	Get all products scenario	START	1638094243020
+REQUEST		Get all products request	1638094243169	1638094243911	OK	 
+USER	Get all products scenario	END	1638094243954
+REQUEST		Get all products request	1638094243169	1638094244018	OK	 
+USER	Get all products scenario	END	1638094244021
+REQUEST		Get all products request	1638094243168	1638094244054	OK	 
+USER	Get all products scenario	END	1638094244058
+REQUEST		Get all products request	1638094243169	1638094244171	OK	 
+USER	Get all products scenario	END	1638094244173
+REQUEST		Get all products request	1638094243168	1638094244491	OK	 
+REQUEST		Get all products request	1638094243168	1638094244492	OK	 
+USER	Get all products scenario	END	1638094244493
+USER	Get all products scenario	END	1638094244493
+REQUEST		Get all products request	1638094243168	1638094244507	OK	 
+USER	Get all products scenario	END	1638094244509
+REQUEST		Get all products request	1638094243169	1638094244641	OK	 
+USER	Get all products scenario	END	1638094244644
+REQUEST		Get all products request	1638094243168	1638094244771	OK	 
+USER	Get all products scenario	END	1638094244774
+REQUEST		Get all products request	1638094243169	1638094245074	OK	 
+USER	Get all products scenario	END	1638094245076

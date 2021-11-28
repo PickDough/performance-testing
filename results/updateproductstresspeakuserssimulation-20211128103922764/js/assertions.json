@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.UpdateProductStressPeakUsersSimulation",
+  "simulationId": "updateproductstresspeakuserssimulation",
+  "start": 1638095962764,
+  "description": "",
+  "scenarios": ["Update product scenario"],
+  "assertions": [
+
+  ]
+}
